@@ -1,7 +1,7 @@
-#Self Driving Car Simulation using Udacity Self driving car simulator
+# Self Driving Car Simulation using Udacity Self driving car simulator
 
-##Self driving car drive automatically without the help of human.
-##Components of Self driving car
+## Self driving car drive automatically without the help of human.
+## Components of Self driving car
  -Computer vision
  -Sensor fusion
  -Localization
@@ -9,8 +9,8 @@
  -Control
 
 
- ##Self driving car simulation using udacity seld driving car simulator
- ##steps:
+ ## Self driving car simulation using udacity seld driving car simulator
+ ## steps:
  1.collecting data:
  ###We have collected data using simulatr (Around 3-5k images i.e center,rightand left images and steering angle,speed,throatal etc.)
  
